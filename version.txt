@@ -1,2 +1,3 @@
 version=0.9.0
 required=false
+sha256=123456abcdefg
