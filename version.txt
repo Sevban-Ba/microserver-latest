@@ -1,2 +1,2 @@
-version=0.9.1.65
+version=0.9.1.66
 required=false
